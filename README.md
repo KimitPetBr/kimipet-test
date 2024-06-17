@@ -29,5 +29,6 @@ O site deve ser responsivo, com códigos legíveis. Todas as imagens usado no te
    - Componentes documentados com Storybook
    - Testes unitários ou de integração com Jest ou Vitest
    - Finalização antes do prazo
+  
 
-Boa sorte!
+Após concluir o teste, envie o link do repositório para o e-mail da KimiPet: kimipetbr@gmail.com. Boa sorte!
